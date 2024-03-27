@@ -31,6 +31,18 @@ I have experience in backend devepment using PHP and MySQL database
 
     
 </p>
+
+<h2><b>Contact me</b></h2>
+
+<p>
+  
+   ![Static Badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&labelColor=white)
+          
+    max.cardenas.cas@gmail.com
+  ![Static Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+    +51 954 142 381
+</p>
 <!--
 **maxcasqui/maxcasqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
