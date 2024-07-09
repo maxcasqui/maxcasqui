@@ -4,7 +4,7 @@
 <p> 
 I am a passionate Android developer, working in native mobile applications. 
 I enjoy creating new apps.
-I have experience in backend devepment using PHP and MySQL database
+I have experience creating native Android apps and multiplatform app with Flutter, I also have experience in backend devepment using PHP and MySQL database
 </p>
 
 <h2><b>My skills</b></h2>
