@@ -15,12 +15,14 @@ I have experience creating native Android apps and multiplatform app with Flutte
   
      ![Static Badge](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin&labelColor=black)
      ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript&labelColor=black)
+     ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
      ![Static Badge](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=black)
       
 - ⚡ Databases:
   
      ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&labelColor=white)
      ![Static Badge](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb&labelColor=black)
+     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
       
 - ⚡ Tools:
 
